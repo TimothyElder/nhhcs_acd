@@ -1,0 +1,150 @@
+File Manifest for ICPSR 28961
+
+United States Department of Health and Human Services. Centers for Disease
+Control and Prevention. National Center for Health Statistics. National
+Home and Hospice Care Survey, 2007. ICPSR28961-v1. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2010-09-01. http://doi.org/10.3886/ICPSR28961.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28961-descriptioncitation.pdf       -       -         -       2019-05-31  -
+
+    28961-related_literature.txt        -       -         -       daily       -
+
+    28961-manifest.txt                  -       -         -       daily       -
+
+    28961-Documentation-readme.pdf      -       -         -       2010-09-01  ff7ae46d17b573ed581474538cec6805
+
+    28961-User_guide.pdf                -       -         -       2010-09-01  c89d16578bdbc58ef944f3b6803dfe72
+
+
+DS0001 Agency Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28961-0001-Data.dta                 -       1,036     425     2010-09-01  25200299844cefdbed91d91b68096c9d
+
+    28961-0001-Data.sav                 -       1,036     425     2010-09-01  47a38820e799e338dc830df3fce72d65
+
+    28961-0001-Data.stc                 -       1,036     425     2010-09-01  8ab6ef3836e64561d917bfdbc81e3f3c
+
+    28961-0001-Data.tsv                 -       1,036     425     2010-09-01  9c8deaeeaf2e1bde4a6314d92a8d3b8c
+
+    28961-0001-Data.txt                 3406    1,036     425     2010-09-01  1c7bd3d47ddbff26aadf8ae2c59294d4
+
+    28961-0001-Data_dictionary.pdf      -       -         -       2010-09-01  e1e1c265d5b805e7460880a07307a39f
+
+    28961-0001-Documentation-studycontent_MULTI.pdf -       -         -       2010-09-01  dd5cbf593cf94b516c7a66c7a2d6129d
+
+    28961-0001-Questionnaire-staffing.pdf -       -         -       2010-09-01  4bd79c5a27d13428f1652169dcd23e7d
+
+    28961-0001-Questionnaire.pdf        -       -         -       2010-09-01  713acf4cb37b7ed0e8499e4b5a068ec6
+
+    28961-0001-Setup.dct                -       -         -       2010-09-01  741c3114a3462ed64d33c2841bbcf512
+
+    28961-0001-Setup.do                 -       -         -       2010-09-01  87e633cab35e603692628e38f5d4b13d
+
+    28961-0001-Setup.sas                -       -         -       2010-09-01  668c9b31230acb243ed914cc36c3ce27
+
+    28961-0001-Setup.sps                -       -         -       2010-09-01  2031c8d6960dc07f38cc943b0c5f41e1
+
+
+DS0002 Patient Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28961-0002-Data.dta                 -       9,416     345     2010-09-01  a801ce1a9d9c90f0d7d8edbd0a15d3c9
+
+    28961-0002-Data.sav                 -       9,416     345     2010-09-01  f753729636ff1761e55e63d0d0b2b89c
+
+    28961-0002-Data.stc                 -       9,416     345     2010-09-01  5b29bea9ee036f89d64f88d07b29786a
+
+    28961-0002-Data.tsv                 -       9,416     345     2010-09-01  8096f2887004e54a9d0efd308ee14c3e
+
+    28961-0002-Data.txt                 2427    9,416     345     2010-09-01  9a9503a2f6a12ab1f2d482f8bb584122
+
+    28961-0002-Data_dictionary.pdf      -       -         -       2010-09-01  802a5ecb3a3c2e8d74286dbb853b9f8e
+
+    28961-0002-Documentation-studycontent_MULTI.pdf -       -         -       2010-09-01  dd5cbf593cf94b516c7a66c7a2d6129d
+
+    28961-0002-Questionnaire.pdf        -       -         -       2010-09-01  827512645b2f1e51a66c183022ab3e9a
+
+    28961-0002-Setup.dct                -       -         -       2010-09-01  97df4f0a83a7486f2cdf5405ac796dca
+
+    28961-0002-Setup.do                 -       -         -       2010-09-01  a0470fb3135e1260a90d05f931e61365
+
+    28961-0002-Setup.sas                -       -         -       2010-09-01  772e1f2c9f3638dbd154a9f27f1485ad
+
+    28961-0002-Setup.sps                -       -         -       2010-09-01  a249bb14a0b677a673b4d207cf9a0a03
+
+
+DS0003 Medication Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28961-0003-Data.dta                 -       9,416     534     2010-09-01  e53fa6fc784be2964518002912b7086a
+
+    28961-0003-Data.sav                 -       9,416     534     2010-09-01  86c3a0c5c391feb8e4a3175a81a16b3f
+
+    28961-0003-Data.stc                 -       9,416     534     2010-09-01  b82670dab4cecefb35bc0c42e27535ba
+
+    28961-0003-Data.tsv                 -       9,416     534     2010-09-01  2eabe730c4224ac68f22d9e537e9089a
+
+    28961-0003-Data.txt                 1580    9,416     534     2010-09-01  266f5e2e57da36529244c136891defce
+
+    28961-0003-Data_dictionary.pdf      -       -         -       2010-09-01  2f3962d210ed77e5d034199259c179d5
+
+    28961-0003-Documentation-PMCODE.pdf -       -         -       2010-09-01  ceb649b5cfeb94e04edcf76f885a7460
+
+    28961-0003-Documentation-studycontent_MULTI.pdf -       -         -       2010-09-01  dd5cbf593cf94b516c7a66c7a2d6129d
+
+    28961-0003-Documentation-supplemental.pdf -       -         -       2010-09-01  c179326bb70e337fdec58c2710aca840
+
+    28961-0003-Documentation-technical.pdf -       -         -       2010-09-01  04b53db814dfca51992759865f96b218
+
+    28961-0003-Setup.dct                -       -         -       2010-09-01  6489fa4dd3f9d4e89497b4e7e365554d
+
+    28961-0003-Setup.do                 -       -         -       2010-09-01  f702a94f2761b4e5e96c0de395dadb5c
+
+    28961-0003-Setup.sas                -       -         -       2010-09-01  ff9f7aa14d0288f0eb67405a927d4e1c
+
+    28961-0003-Setup.sps                -       -         -       2010-09-01  0690c6e4d269f26e7e05374f0158107c
+
+
+DS0004 2007 National Home Health Aide Survey Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    28961-0004-Data.dta                 -       3,377     370     2010-09-01  0579f022e8d925ac6a4f6b4f6fc077a6
+
+    28961-0004-Data.sav                 -       3,377     370     2010-09-01  3d9d309cc7c91603a923e3a5716152f9
+
+    28961-0004-Data.stc                 -       3,377     370     2010-09-01  3eace1dca65a5c41dc039b1b0a897fa3
+
+    28961-0004-Data.tsv                 -       3,377     370     2010-09-01  163de61a0811dc7428fe9e3660f3b164
+
+    28961-0004-Data.txt                 1372    3,377     370     2010-09-01  38094d3479507b48ce859779bd522e4a
+
+    28961-0004-Data_dictionary.pdf      -       -         -       2010-09-01  79880b32d294379f78d1b53650847f63
+
+    28961-0004-Documentation-helpscreens.pdf -       -         -       2010-09-01  33c4517f1d04a1e19a3a805fc8e52cd6
+
+    28961-0004-Questionnaire.pdf        -       -         -       2010-09-01  da046aeb756108945dfc9f71134fc36b
+
+    28961-0004-Setup.dct                -       -         -       2010-09-01  4b65c0add18a2b8d5943c4c393bb3225
+
+    28961-0004-Setup.do                 -       -         -       2010-09-01  773c12c3cb4f09ea63b08f470ef05236
+
+    28961-0004-Setup.sas                -       -         -       2010-09-01  21c9099e20c79c8b7adcf45c0ac8861b
+
+    28961-0004-Setup.sps                -       -         -       2010-09-01  1b1790aa80ffa9ad2013f1ae6762b414
+
