@@ -1,3 +1,5 @@
+# Code for modeling the relationships of interest using Gary King's Zelig library. 
+
 library(Zelig)
 library(tidyverse)
 

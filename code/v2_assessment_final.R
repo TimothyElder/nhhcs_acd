@@ -1,7 +1,7 @@
-# MLE Final Assignment, Timothy Elder
+# Timothy Elder, code for analysis of the National Home and Hospice 
 
 # Library Data, Log Sink, and Functions ----
-setwd("/Volumes/timothyelder/Graduate/Maximum_Likelihood/assessment_final")
+setwd("/Users/timothyelder/Documents/nhhcs_acd")
 
 library(tidyverse)
 library(srvyr)
@@ -91,7 +91,7 @@ e1071 ::skewness(home$LOSHH)
 N00 <- home %>%
   select(ANYADDIR)
 
-#fpr annual hospice discharges
+#for annual hospice discharges
 discharge <- nhhcs %>% 
   subset(PHTYPE == 2) %>% 
   select(CASEID, PATNUM, PTAGYNUM, TOTCDDX, CDDX1, TOTALRX, TOTPROC, DIRECTIVES, READMSS, HOSPICEDAYS, DECEASED, DISCHARG, WHRDISCH, SEX, AGEATDIS, HISPAN, RACEASIA, RACEBLCK, RACEWHT, MARSTAT, VETERAN, MCARENR, MCAIDENR, ANYADDIR, LIVINGWL, DNR, NOHOSP, FEEDRES, MEDRES, COMFORT, POWER, PROXY, ORGANDON, NOADVANC, INPATIENT, PREHOME, LIVSMHOS, PREHOSP, POSTHOSP, SAMWT)
